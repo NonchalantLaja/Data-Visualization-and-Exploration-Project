@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.1.29)  14 OCT 2019 13:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.1.29)  17 OCT 2019 22:52
 entering extended mode
 **"./Project Slides.tex"
 ("Project Slides.tex"
@@ -997,122 +997,175 @@ Package pdftex.def Info: spu.png  used on input line 24.
 
 {C:/Users/Olatomiwa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./spu.p
 ng>]
-<DP.png, id=23, 310.15875pt x 252.19218pt>
-File: DP.png Graphic file (type png)
-<use DP.png>
-Package pdftex.def Info: DP.png  used on input line 35.
-(pdftex.def)             Requested size: 155.079pt x 126.09578pt.
 File: spu.png Graphic file (type png)
 <use spu.png>
-Package pdftex.def Info: spu.png  used on input line 35.
+Package pdftex.def Info: spu.png  used on input line 36.
 (pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
  [2
 
- <./DP.png>]
+]
 File: spu.png Graphic file (type png)
 <use spu.png>
-Package pdftex.def Info: spu.png  used on input line 52.
+Package pdftex.def Info: spu.png  used on input line 53.
 (pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
  [3
 
 ]
-<cnn_math1.png, id=36, 386.19281pt x 264.99pt>
+<cnn_math1.png, id=33, 386.19281pt x 264.99pt>
 File: cnn_math1.png Graphic file (type png)
 <use cnn_math1.png>
-Package pdftex.def Info: cnn_math1.png  used on input line 56.
+Package pdftex.def Info: cnn_math1.png  used on input line 57.
 (pdftex.def)             Requested size: 270.33311pt x 185.49173pt.
 File: spu.png Graphic file (type png)
 <use spu.png>
-Package pdftex.def Info: spu.png  used on input line 56.
+Package pdftex.def Info: spu.png  used on input line 57.
 (pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
  [4
 
  <./cnn_math1.png>]
-<cnn_math2.png, id=43, 402.00188pt x 299.61937pt>
+<cnn_math2.png, id=41, 402.00188pt x 299.61937pt>
 File: cnn_math2.png Graphic file (type png)
 <use cnn_math2.png>
-Package pdftex.def Info: cnn_math2.png  used on input line 60.
+Package pdftex.def Info: cnn_math2.png  used on input line 61.
 (pdftex.def)             Requested size: 281.39938pt x 209.73212pt.
 File: spu.png Graphic file (type png)
 <use spu.png>
-Package pdftex.def Info: spu.png  used on input line 60.
+Package pdftex.def Info: spu.png  used on input line 61.
 (pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
  [5
 
  <./cnn_math2.png>]
-<cnn_math3.png, id=50, 401.24907pt x 295.85532pt>
+<cnn_math3.png, id=48, 401.24907pt x 295.85532pt>
 File: cnn_math3.png Graphic file (type png)
 <use cnn_math3.png>
-Package pdftex.def Info: cnn_math3.png  used on input line 66.
+Package pdftex.def Info: cnn_math3.png  used on input line 67.
 (pdftex.def)             Requested size: 280.87242pt x 207.0973pt.
 File: spu.png Graphic file (type png)
 <use spu.png>
-Package pdftex.def Info: spu.png  used on input line 66.
+Package pdftex.def Info: spu.png  used on input line 67.
 (pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
  [6
 
  <./cnn_math3.png>]
 File: spu.png Graphic file (type png)
 <use spu.png>
-Package pdftex.def Info: spu.png  used on input line 80.
+Package pdftex.def Info: spu.png  used on input line 81.
 (pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
  [7
 
 ]
-<im_cap.png, id=63, 312.41719pt x 252.19218pt>
+<im_cap.png, id=61, 312.41719pt x 252.19218pt>
 File: im_cap.png Graphic file (type png)
 <use im_cap.png>
-Package pdftex.def Info: im_cap.png  used on input line 90.
+Package pdftex.def Info: im_cap.png  used on input line 91.
 (pdftex.def)             Requested size: 124.96465pt x 100.87508pt.
 File: spu.png Graphic file (type png)
 <use spu.png>
-Package pdftex.def Info: spu.png  used on input line 90.
+Package pdftex.def Info: spu.png  used on input line 91.
 (pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
  [8
 
  <./im_cap.png>]
-<cnn_model.png, id=70, 569.12625pt x 188.20313pt>
+<cnn_model.png, id=68, 569.12625pt x 188.20313pt>
 File: cnn_model.png Graphic file (type png)
 <use cnn_model.png>
-Package pdftex.def Info: cnn_model.png  used on input line 105.
+Package pdftex.def Info: cnn_model.png  used on input line 106.
 (pdftex.def)             Requested size: 284.56242pt x 94.10132pt.
-<para_in_image.png, id=71, 250.68657pt x 142.28156pt>
+<para_in_image.png, id=69, 250.68657pt x 142.28156pt>
 File: para_in_image.png Graphic file (type png)
 <use para_in_image.png>
-Package pdftex.def Info: para_in_image.png  used on input line 105.
+Package pdftex.def Info: para_in_image.png  used on input line 106.
 (pdftex.def)             Requested size: 122.91406pt x 69.76198pt.
-<parasites.png, id=72, 478.03593pt x 108.405pt>
+<parasites.png, id=70, 478.03593pt x 108.405pt>
 File: parasites.png Graphic file (type png)
 <use parasites.png>
-Package pdftex.def Info: parasites.png  used on input line 105.
+Package pdftex.def Info: parasites.png  used on input line 106.
 (pdftex.def)             Requested size: 153.64493pt x 34.84248pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 105.
+LaTeX Font Info:    Try loading font information for U+msa on input line 106.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 105.
+LaTeX Font Info:    Try loading font information for U+msb on input line 106.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 105.
+line 106.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-Overfull \vbox (33.4335pt too high) detected at line 105
+Overfull \vbox (33.4335pt too high) detected at line 106
  []
 
 File: spu.png Graphic file (type png)
 <use spu.png>
-Package pdftex.def Info: spu.png  used on input line 105.
+Package pdftex.def Info: spu.png  used on input line 106.
 (pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
 [9
 
  <./cnn_model.png> <./para_in_image.png> <./parasites.png>]
+<data_head.png, id=82, 422.32782pt x 98.61844pt>
+File: data_head.png Graphic file (type png)
+<use data_head.png>
+Package pdftex.def Info: data_head.png  used on input line 119.
+(pdftex.def)             Requested size: 253.39864pt x 59.17151pt.
+File: spu.png Graphic file (type png)
+<use spu.png>
+Package pdftex.def Info: spu.png  used on input line 119.
+(pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
+ [10
+
+ <./data_head.png>]
+<data_1.png, id=89, 371.88937pt x 265.74281pt>
+File: data_1.png Graphic file (type png)
+<use data_1.png>
+Package pdftex.def Info: data_1.png  used on input line 126.
+(pdftex.def)             Requested size: 260.32079pt x 186.01869pt.
+File: spu.png Graphic file (type png)
+<use spu.png>
+Package pdftex.def Info: spu.png  used on input line 126.
+(pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
+ [11
+
+ <./data_1.png>]
+<model_parameters.png, id=96, 221.32687pt x 115.18031pt>
+File: model_parameters.png Graphic file (type png)
+<use model_parameters.png>
+Package pdftex.def Info: model_parameters.png  used on input line 139.
+(pdftex.def)             Requested size: 184.3758pt x 95.95639pt.
+<DP.png, id=97, 310.15875pt x 252.19218pt>
+File: DP.png Graphic file (type png)
+<use DP.png>
+Package pdftex.def Info: DP.png  used on input line 139.
+(pdftex.def)             Requested size: 92.1879pt x 74.95787pt.
+File: spu.png Graphic file (type png)
+<use spu.png>
+Package pdftex.def Info: spu.png  used on input line 139.
+(pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
+ [12
+
+ <./model_parameters.png> <./DP.png>]
+<prediction2.png, id=107, 308.65312pt x 312.41719pt>
+File: prediction2.png Graphic file (type png)
+<use prediction2.png>
+Package pdftex.def Info: prediction2.png  used on input line 153.
+(pdftex.def)             Requested size: 122.91406pt x 124.41167pt.
+<prediction.png, id=108, 315.42844pt x 319.1925pt>
+File: prediction.png Graphic file (type png)
+<use prediction.png>
+Package pdftex.def Info: prediction.png  used on input line 153.
+(pdftex.def)             Requested size: 122.91406pt x 124.38228pt.
+File: spu.png Graphic file (type png)
+<use spu.png>
+Package pdftex.def Info: spu.png  used on input line 153.
+(pdftex.def)             Requested size: 64.99265pt x 48.68175pt.
+ [13
+
+ <./prediction2.png> <./prediction.png>]
 \tf@nav=\write6
 \openout6 = `"Project Slides.nav"'.
 
@@ -1122,20 +1175,19 @@ Package pdftex.def Info: spu.png  used on input line 105.
 \tf@snm=\write8
 \openout8 = `"Project Slides.snm"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
-
-("Project Slides.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
+ ("Project Slides.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
 Package rerunfilecheck Info: File `"Project Slides".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21701 strings out of 492946
- 431993 string characters out of 3135515
- 501019 words of memory out of 3000000
- 25094 multiletter control sequences out of 15000+200000
+ 21750 strings out of 492946
+ 432680 string characters out of 3135515
+ 501223 words of memory out of 3000000
+ 25126 multiletter control sequences out of 15000+200000
  13072 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,15n,95p,1843b,867s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1143,9 +1195,9 @@ Here is how much of TeX's memory you used:
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on "Project Slides.pdf" (9 pages, 766582 bytes).
+Output written on "Project Slides.pdf" (13 pages, 1231912 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 

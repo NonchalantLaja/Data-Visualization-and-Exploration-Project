@@ -22,13 +22,14 @@
 
 \begin{document}
 \frame{\titlepage}
-\begin{frame}[t]{Problem}
+\begin{frame}[t]{Problem Statement}
 \vspace{1pt}\small
 
 	\begin{itemize}
 	\item About 90\% of all malaria deaths in the world today occur in Africa south of the Sahara.
 	\item The majority of infections in Africa are caused by Plasmodium falciparum. 
-	\item \includegraphics[scale = 0.5]{DP.png} 
+	\item Identifying parasite species and their stage is very important in scutinizing the properties of malaria
+	\item The process is labor intensive and time consuming
 	\end{itemize}
 
 	
@@ -73,7 +74,7 @@
 		
 		\item It is structured since the data consists of images and annotations.
 		
-		\item The data classifies as big data since each category of disease consists of over 1000 images, each image consisting of thousands of bounding boxes in order to indicate parasites and bacilli.
+		\item The data classifies as big data since each category of disease consists of over 2000 images, each image consisting of multiple bounding boxes in order to indicate parasites and bacilli.
 		
 	\end{itemize}
 	\end{block}
@@ -104,4 +105,52 @@
 	\end{block}
 \end{frame}
 	
+		\begin{frame}
+		\begin{block}{\color{red}{The Data}}
+			\includegraphics[scale = 0.6]{data_head.png}
+			
+			\begin{itemize}
+			\item The Dataset stores an array with each row corresponding to a vectorized feature for each image.
+			\item Converting the 2d feature vector into one or more 1D feature vectors
+			\item The number of rows equal the number of images.
+			\end{itemize}
+			
+		\end{block}
+	\end{frame}
+	
+	\begin{frame}
+		\begin{block}{\color{red}{Pre-processing}}
+			\includegraphics[scale = 0.7]{data_1.png}
+
+	\end{block}
+	\end{frame}
+
+\begin{frame}
+		\begin{figure}[H]
+		\begin{minipage}{\textwidth}
+			\centering
+			\includegraphics[width=.6\textwidth]{model_parameters.png}
+			\includegraphics[width=.3\textwidth]{DP.png}
+			\subcaption{Model Parameters and the Image}
+			\label{fig:data}
+		\end{minipage}\\[1em]
+	\end{figure}
+
+\end{frame}
+
+\begin{frame}
+	\begin{block}{\color{red}{Predictions}}
+				\begin{figure}[H]
+			\begin{minipage}{\textwidth}
+				\centering
+				\includegraphics[width=.4\textwidth]{prediction2.png}
+				\includegraphics[width=.4\textwidth]{prediction.png}
+				\subcaption{Parasites Predictions}
+				\label{fig:preds}
+			\end{minipage}\\[1em]
+		\end{figure}
+	\end{block}
+\end{frame}
+
+
 \end{document}
